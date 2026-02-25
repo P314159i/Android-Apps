@@ -1,8 +1,8 @@
 # Clock in/out for Codam!
 
-## Are you getting scholarship from Codam? Do you carry the burden of manually⌚ calculating your hours ever darn week?
+### Are you getting scholarship from Codam? Do you carry the burden of manually⌚ calculating your hours ever darn week?
 
-### your solution is here!
+## your solution is here!
  
 ⌛  This simple android app can clock you in and out, count the hours daily and sum them up weekly.
 
