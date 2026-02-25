@@ -14,6 +14,6 @@
 
   ⏰ At the end of the week, the app will automatically reset, or you can manually reset it.
 
-  ⏰ You can manually enter the hours as well, by clicking on the name of the day.
+  ⏰ You can manually enter the hours as well, by clicking on the name of the day. Cause who knows, maybe you find my app in the middle of the week and still wanna get rid of the burden of hour calculation!
 
 #WIP: The app is still developing so come back for updates!
