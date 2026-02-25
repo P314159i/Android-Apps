@@ -14,4 +14,6 @@
 
   ⏰ At the end of the week, the app will automatically reset, or you can manually reset it.
 
+  ⏰ You can manually enter the hours as well, by clicking on the name of the day.
+
 #WIP: The app is still developing so come back for updates!
