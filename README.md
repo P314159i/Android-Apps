@@ -1,13 +1,17 @@
 ### Clock in/out for Codam!
 
-This simple android app can clock you in and out, count the hours daily and sum them up weekly.
+# Are you getting scholarship from Codam? Do you carry the burden of manually⌚ calculating your hours ever darn week?
 
-It makes sure you have fulfilled your 25hours/week commitment to Codam, if you have scholarship.
+## your solution is here!
+ 
+⌛  This simple android app can clock you in and out, count the hours daily and sum them up weekly.
 
-You can take a smoke break by pressing the button 'Break' to pause the counting of time without clocking out.
+⌛  It makes sure you have fulfilled your commitment to Codam.
 
-If you clocked-out accidentally, you can clock-in again, and the calculation for the day will resume.
+  ⏰  You can take a smoke break by pressing the button 'Break' to pause the counting of time without clocking out.
 
-At the end of the week, the app will automatically reset, or you can manually reset it.
+  ⏰ If you clocked-out accidentally, you can clock-in again, and the calculation for the day will resume.
 
-The app is still developing so come back for updates!
+  ⏰ At the end of the week, the app will automatically reset, or you can manually reset it.
+
+#WIP: The app is still developing so come back for updates!
